@@ -1,0 +1,12 @@
+#Wed Nov 05 18:24:06 CET 2025
+/home/adam/studia/technologia/lab2/invoice-system/src/main/java/adam/sowinski/pl/invoice/model/Clinet.java=1762363034616
+/home/adam/studia/technologia/lab2/invoice-system/src/main/java/adam/sowinski/pl/invoice/model/Invoice.java=1762363044246
+/home/adam/studia/technologia/lab2/invoice-system/src/main/java/adam/sowinski/pl/invoice/model/InvoiceItem.java=1762363051440
+/home/adam/studia/technologia/lab2/invoice-system/src/main/java/adam/sowinski/pl/invoice/model/Product.java=1762363038710
+/home/adam/studia/technologia/lab2/invoice-system/src/main/java/adam/sowinski/pl/invoice/service/ClientService.java=1762363066177
+/home/adam/studia/technologia/lab2/invoice-system/src/main/java/adam/sowinski/pl/invoice/service/InvoiceService.java=1762363086664
+/home/adam/studia/technologia/lab2/invoice-system/src/main/java/adam/sowinski/pl/invoice/service/ProductService.java=1762363077885
+/home/adam/studia/technologia/lab2/invoice-system/src/main/java/adam/sowinski/pl/invoice/ui/MainApp.java=1762363110661
+configuration*?=459773829C38B72F5F953D34B4A47EBB587E352A
+module-resource*?\:checkstyle-suppressions.xml=281BBC35728C4019C4129F758AED818016B96822
+module-resource*?\:checkstyle-xpath-suppressions.xml=4A36BE6EBA3DDF0BE219DBB318A3DAF8894605F8

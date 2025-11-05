@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="/home/adam/studia/technologia/lab2/invoice-system/src/main/java/adam/sowinski/pl/invoice/model/InvoiceItem.java">
+</file>
+<file name="/home/adam/studia/technologia/lab2/invoice-system/src/main/java/adam/sowinski/pl/invoice/model/Product.java">
+</file>
+<file name="/home/adam/studia/technologia/lab2/invoice-system/src/main/java/adam/sowinski/pl/invoice/model/Clinet.java">
+</file>
+<file name="/home/adam/studia/technologia/lab2/invoice-system/src/main/java/adam/sowinski/pl/invoice/model/Invoice.java">
+</file>
+<file name="/home/adam/studia/technologia/lab2/invoice-system/src/main/java/adam/sowinski/pl/invoice/service/InvoiceService.java">
+</file>
+<file name="/home/adam/studia/technologia/lab2/invoice-system/src/main/java/adam/sowinski/pl/invoice/service/ClientService.java">
+</file>
+<file name="/home/adam/studia/technologia/lab2/invoice-system/src/main/java/adam/sowinski/pl/invoice/service/ProductService.java">
+</file>
+<file name="/home/adam/studia/technologia/lab2/invoice-system/src/main/java/adam/sowinski/pl/invoice/ui/MainApp.java">
+</file>
+</checkstyle>
